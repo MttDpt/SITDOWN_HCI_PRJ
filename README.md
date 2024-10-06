@@ -73,7 +73,7 @@ npm start
 
 ## Contributors and Contacts 
 
-- Matteo Del Prato - [email](mailto:m.matteodelprato@gmail.com) [LinkedIn](https://www.linkedin.com/in/matteodelprato/)
-- Carolina Ortega Barrios - [email](mailto:caroortegaab@gmail.com) [LinkedIn](https://www.linkedin.com/in/carolina-ortega-barr/)
-- Francesco Barbanti - [email](mailto:franbarbanti@gmail.com)[LinkedIn](https://www.linkedin.com/in/francesco-barbanti-57b5021a7/)
-- Milan Tornier - [email](mailto:milantornier0@gmail.com)[LinkedIn](https://www.linkedin.com/in/milan-tornier-ab74bb136/)
+- Matteo Del Prato - [email](mailto:m.matteodelprato@gmail.com) / [LinkedIn](https://www.linkedin.com/in/matteodelprato/)
+- Carolina Ortega Barrios - [email](mailto:caroortegaab@gmail.com) / [LinkedIn](https://www.linkedin.com/in/carolina-ortega-barr/)
+- Francesco Barbanti - [email](mailto:franbarbanti@gmail.com) / [LinkedIn](https://www.linkedin.com/in/francesco-barbanti-57b5021a7/)
+- Milan Tornier - [email](mailto:milantornier0@gmail.com) / [LinkedIn](https://www.linkedin.com/in/milan-tornier-ab74bb136/)
