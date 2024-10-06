@@ -11,8 +11,7 @@
 5. [Key Findings](#key-findings)
 6. [Technologies](#technologies)
 7. [How to Install and Use](#how-to-install-and-use)
-8. [Contributors](#contributors)
-9. [License](#license)
+8. [Contributors and contacts](#contributors-and-contacts)
 
 ## Overview
 
@@ -70,6 +69,7 @@ npm install
 
 # Run the project
 npm start
+```
 
 ## Contributors and Contacts 
 
