@@ -73,7 +73,7 @@ npm start
 
 ## Contributors and Contacts 
 
-Matteo Del Prato - [email](mailto:m.matteodelprato@gmail.com)
-Carolina Ortega Barrios - [email](mailto:caroortegaab@gmail.com)
-Francesco Barbanti - [email](mailto:franbarbanti@gmail.com)
-Milan Tornier - [email](mailto:milantornier0@gmail.com)
+- Matteo Del Prato - [email](mailto:m.matteodelprato@gmail.com)
+- Carolina Ortega Barrios - [email](mailto:caroortegaab@gmail.com)
+- Francesco Barbanti - [email](mailto:franbarbanti@gmail.com)
+- Milan Tornier - [email](mailto:milantornier0@gmail.com)
